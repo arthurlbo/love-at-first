@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611079414 source:c:\users\arthur\desktop\prog c\switch1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+

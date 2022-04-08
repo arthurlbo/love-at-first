@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611079614 source:c:\users\arthur\desktop\prog c\calc2.0switch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<locale.h>
+

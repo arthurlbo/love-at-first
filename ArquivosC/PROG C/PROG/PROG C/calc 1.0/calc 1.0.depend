@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1609900652 source:c:\users\arthur\desktop\prog\prog c\calc 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+
+1609900652 source:c:\users\arthur\desktop\prog c\prog\prog c\calc 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609902631 source:c:\users\arthur\desktop\prog c\tomada de decisões if 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+

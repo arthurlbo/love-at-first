@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611802570 source:c:\users\arthur\desktop\prog c\operaçãoternaria1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+

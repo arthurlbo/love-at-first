@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629012874 source:c:\users\arthur\desktop\prog c\comportamentodeargumentoscomfunçoes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

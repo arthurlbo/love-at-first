@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611189543 source:c:\users\arthur\desktop\prog c\operadoresdeincrementoedecremento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+

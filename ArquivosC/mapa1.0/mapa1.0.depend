@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649385943 source:c:\mapa1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<conio.h>
+

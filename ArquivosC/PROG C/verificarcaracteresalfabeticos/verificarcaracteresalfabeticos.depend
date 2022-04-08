@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629585694 source:c:\users\arthur\desktop\prog c\verificarcaracteresalfabeticos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

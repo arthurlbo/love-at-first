@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613104158 source:c:\users\arthur\desktop\prog c\funçãoquechamafunção\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

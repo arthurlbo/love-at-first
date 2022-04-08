@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1609900486 source:c:\users\arthur\desktop\prog c\entrada de dados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+
+1609900486 source:c:\users\arthur\desktop\prog\prog c\entrada de dados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+
+1613091569 source:c:\users\arthur\desktop\prog c\prog\prog c\entrada de dados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+

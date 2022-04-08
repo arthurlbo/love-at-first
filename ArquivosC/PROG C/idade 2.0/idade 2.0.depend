@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1629767723 source:c:\users\arthur\desktop\prog c\idade 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<locale.h>
+

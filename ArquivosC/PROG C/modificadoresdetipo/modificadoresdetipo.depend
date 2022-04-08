@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610550651 source:c:\users\arthur\desktop\prog c\modificadoresdetipo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<locale.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611103154 source:c:\users\arthur\desktop\prog c\testdowhile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<locale.h>
+
